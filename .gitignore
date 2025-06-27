@@ -2,4 +2,3 @@ node_modules/
 vendors/
 secret/
 .env
-main.js
